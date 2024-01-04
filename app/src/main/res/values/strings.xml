@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="alisha_intro">Hello, my name is Alisha and I am a full stack developer in training who loves CodePaths mission.</string>
+    <string name="button_hello">Say Hello</string>
+</resources>
